@@ -1,0 +1,15 @@
+Train:
+non_pls: 6641
+non_pls aumented: 24477
+non_pls total: 31118
+pls total: 4496
+pls aumented: 11745
+pls total: 16241
+
+Test:
+non_pls: 1661
+non_pls aumented: 6003
+non_pls total: 7664
+pls: 1124
+pls aumented: 2816
+pls total: 3940
